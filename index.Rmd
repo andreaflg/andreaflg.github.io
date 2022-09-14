@@ -1,0 +1,32 @@
+---
+title: ' '
+pagetitle: 'Your Name'
+output: 
+  html_document: 
+    css: "styles.css"
+---
+
+```{R echo=F, eval=F}
+#to build this website into the _site directory, run
+rmarkdown::site_generator()
+```
+ 
+<img src="me.jpeg" style=width:40% class="img-circle">
+
+<br>
+
+# Welcome! I am Andrea Flores.  
+  
+</br>
+
+##### I love to watch movies.
+
+##### I have two kittens. One is named Macchiato and the other is Truffles.
+
+##### In my free time, I crochet, bake, and hang out with friends.  
+
+##### I don't have any data-related projects, but if I did you could find them [here](/portfolio)!
+
+---
+
+
